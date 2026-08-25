@@ -6,6 +6,6 @@ public class Main {
     }
 
     static String getGreeting() {
-        return "Hello world from the team's Sprint 1 project skeleton. PUll reQUEST!!!!";
+        return "Hello world from the team's Sprint 1 project skeleton. PUll reQUEST!!!!222222";
     }
 }
